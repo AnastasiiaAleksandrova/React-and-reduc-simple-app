@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+.historyItem {
+  color: white;
+  font-weight: bold;
+  list-style-type: none;
+  border: 1px solid grey;
+  margin: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color:grey;
+}
+
+.up, .down {
+  margin: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.hint {
+  font-weight: normal;
+  color: lightgrey;
+  font-size: .9rem;
+}
