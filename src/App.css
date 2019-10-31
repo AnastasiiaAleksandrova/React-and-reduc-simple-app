@@ -20,6 +20,7 @@
 .App-link {
   color: #09d3ac;
 }
+
 .historyItem {
   color: white;
   font-weight: bold;
@@ -41,4 +42,8 @@
   font-weight: normal;
   color: lightgrey;
   font-size: .9rem;
+}
+
+.loader {
+  height: 2em;
 }
